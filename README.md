@@ -161,17 +161,3 @@ Chain-of-custody • artifact preservation • snapshotting • SIEM correlation
 ✔ Documentation & Reporting
 
 Executive summaries • timelines • root cause analysis • regulatory implications
-
-📁 Repository Structure (Recommended)
-/
-├── README.md
-├── scenario-5-aws-s3-misconfiguration/
-│   ├── Scenario_5_Playbook.pdf
-│   └── notes/
-├── scenario-8-linux-rootkit/
-│   ├── Scenario_8_Playbook.pdf
-│   └── indicators/
-├── execution/
-│   └── playbook_execution_screenshot.png
-└── scripts/
-    └── playbook.sh
