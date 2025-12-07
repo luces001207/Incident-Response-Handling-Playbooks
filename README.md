@@ -175,9 +175,3 @@ Executive summaries • timelines • root cause analysis • regulatory implica
 │   └── playbook_execution_screenshot.png
 └── scripts/
     └── playbook.sh
-
-💬 Author
-
-En Mong
-Master of Science in Cybersecurity
-Incident Response • SOC Analysis • Digital Forensics • Cloud Security
